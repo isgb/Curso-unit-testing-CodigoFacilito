@@ -5,3 +5,8 @@ module.exports = {
     // errores siempre se muestran al final de la ejecución.
     verbose: true, 
 }
+
+
+/**
+ * //collectCoverage : Lanza un pequeño reporte d elas pruebas de nuestro proyecto
+ */
